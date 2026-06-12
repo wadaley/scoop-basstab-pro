@@ -4,7 +4,7 @@
   "homepage": "https://basstab.pro",
   "license": "Proprietary",
   "url": "https://basstab.pro/desktop/dev/windows-x64/latest/Basstab-Pro-windows-x64.zip",
-  "hash": "c17e6289167c096e1b4e2f4ae9ffaaa581e73d091d3922c135015fbe208039e1",
+  "hash": "2d59a82ac7ef2496e2148789d4504f4693f3659a20af59cffe37973588b468d2",
   "shortcuts": [
     ["Basstab Pro.exe", "Basstab Pro"]
   ],
