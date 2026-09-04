@@ -1,10 +1,10 @@
 {
-  "version": "0.2.467",
+  "version": "0.2.469",
   "description": "Bass tab analysis and practice workstation",
   "homepage": "https://basstab.pro",
   "license": "Proprietary",
-  "url": "https://dev.basstab.pro/desktop/dev/windows-x64/76bd1b8/Basstab-Pro-windows-x64.zip",
-  "hash": "0a0a2a40334da400ddf1fc577cddc256129f86081b6fbc7d8a4352fd188e5ecb",
+  "url": "https://dev.basstab.pro/desktop/dev/windows-x64/2216f65/Basstab-Pro-windows-x64.zip",
+  "hash": "af40b2aa22d617a472b558d895c5f1e8720637981c2df152a611e890fe4db982",
   "shortcuts": [
     ["Basstab Pro.exe", "Basstab Pro"]
   ],
